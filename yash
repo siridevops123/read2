@@ -1,0 +1,3 @@
+echo " file history " > yash 
+git add .
+git commit -m " msg "
